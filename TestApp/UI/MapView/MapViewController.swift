@@ -21,6 +21,7 @@ class MapViewController: UIViewController {
     private let locationManager = CLLocationManager()
     private let animationTime: TimeInterval = 0.2
     private let zoom: Float = 15
+    private let defaultCornerRadius: CGFloat = 8
     
     init(userAccount: UserAccount) {
         self.userAccount = userAccount
@@ -82,7 +83,7 @@ class MapViewController: UIViewController {
     
     private func setupMapView() {
         googleMapView.clipsToBounds = true
-        googleMapView.layer.cornerRadius = 10
+        googleMapView.layer.cornerRadius = defaultCornerRadius
 
         googleMapView.layer.maskedCorners = [.layerMaxXMinYCorner, .layerMinXMinYCorner]
         do {
