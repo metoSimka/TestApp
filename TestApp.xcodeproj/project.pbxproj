@@ -17,6 +17,22 @@
 		A50ABF6B2518903D00E7E15B /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50ABF6A2518903D00E7E15B /* Constants.swift */; };
 		A50ABF792518935800E7E15B /* AuthorizationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50ABF772518935800E7E15B /* AuthorizationViewController.swift */; };
 		A50ABF7A2518935800E7E15B /* AuthorizationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A50ABF782518935800E7E15B /* AuthorizationViewController.xib */; };
+		A50ABF86251897D500E7E15B /* UIColor+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50ABF85251897D500E7E15B /* UIColor+Extension.swift */; };
+		A50ABF8E2518994900E7E15B /* Avenir-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A50ABF8B2518993E00E7E15B /* Avenir-Heavy.ttf */; };
+		A50ABF902518994A00E7E15B /* SFProDisplay-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A50ABF8D2518993E00E7E15B /* SFProDisplay-Medium.ttf */; };
+		A50ABF922518994C00E7E15B /* SFProDisplay-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A50ABF8C2518993E00E7E15B /* SFProDisplay-Light.ttf */; };
+		A50ABF942518994E00E7E15B /* SFProDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A50ABF8A2518993E00E7E15B /* SFProDisplay-Regular.ttf */; };
+		A50ABF9825189AF400E7E15B /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50ABF9725189AF400E7E15B /* UIView+Extension.swift */; };
+		A50ABF9D25189E0100E7E15B /* NameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50ABF9B25189E0100E7E15B /* NameViewController.swift */; };
+		A50ABF9E25189E0100E7E15B /* NameViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A50ABF9C25189E0100E7E15B /* NameViewController.xib */; };
+		A50ABFAD2518B85600E7E15B /* EmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A50ABFAB2518B85600E7E15B /* EmailViewController.swift */; };
+		A50ABFAE2518B85600E7E15B /* EmailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A50ABFAC2518B85600E7E15B /* EmailViewController.xib */; };
+		A54AD06F2518CF7E00C89B89 /* UserAccount.swift in Sources */ = {isa = PBXBuildFile; fileRef = A54AD06E2518CF7E00C89B89 /* UserAccount.swift */; };
+		A57F22112518ECF400D83BB2 /* MapStyleJson.swift in Sources */ = {isa = PBXBuildFile; fileRef = A57F22102518ECF400D83BB2 /* MapStyleJson.swift */; };
+		A5EAF1F82518C0B30009DE0F /* CreatePasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5EAF1F62518C0B30009DE0F /* CreatePasswordViewController.swift */; };
+		A5EAF1F92518C0B30009DE0F /* CreatePasswordViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5EAF1F72518C0B30009DE0F /* CreatePasswordViewController.xib */; };
+		A5EAF1FF2518C4520009DE0F /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5EAF1FD2518C4520009DE0F /* MapViewController.swift */; };
+		A5EAF2002518C4520009DE0F /* MapViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5EAF1FE2518C4520009DE0F /* MapViewController.xib */; };
 		EA3CF595736D4114B1C6C2BE /* Pods_TestApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 14C593680179DF24D49206F0 /* Pods_TestApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -35,6 +51,23 @@
 		A50ABF6A2518903D00E7E15B /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		A50ABF772518935800E7E15B /* AuthorizationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthorizationViewController.swift; sourceTree = "<group>"; };
 		A50ABF782518935800E7E15B /* AuthorizationViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AuthorizationViewController.xib; sourceTree = "<group>"; };
+		A50ABF85251897D500E7E15B /* UIColor+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
+		A50ABF8A2518993E00E7E15B /* SFProDisplay-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SFProDisplay-Regular.ttf"; sourceTree = "<group>"; };
+		A50ABF8B2518993E00E7E15B /* Avenir-Heavy.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Avenir-Heavy.ttf"; sourceTree = "<group>"; };
+		A50ABF8C2518993E00E7E15B /* SFProDisplay-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SFProDisplay-Light.ttf"; sourceTree = "<group>"; };
+		A50ABF8D2518993E00E7E15B /* SFProDisplay-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "SFProDisplay-Medium.ttf"; sourceTree = "<group>"; };
+		A50ABF9725189AF400E7E15B /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		A50ABF9B25189E0100E7E15B /* NameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameViewController.swift; sourceTree = "<group>"; };
+		A50ABF9C25189E0100E7E15B /* NameViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NameViewController.xib; sourceTree = "<group>"; };
+		A50ABFA82518B69600E7E15B /* TextFieldValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldValidator.swift; sourceTree = "<group>"; };
+		A50ABFAB2518B85600E7E15B /* EmailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailViewController.swift; sourceTree = "<group>"; };
+		A50ABFAC2518B85600E7E15B /* EmailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EmailViewController.xib; sourceTree = "<group>"; };
+		A54AD06E2518CF7E00C89B89 /* UserAccount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserAccount.swift; sourceTree = "<group>"; };
+		A57F22102518ECF400D83BB2 /* MapStyleJson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapStyleJson.swift; sourceTree = "<group>"; };
+		A5EAF1F62518C0B30009DE0F /* CreatePasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePasswordViewController.swift; sourceTree = "<group>"; };
+		A5EAF1F72518C0B30009DE0F /* CreatePasswordViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CreatePasswordViewController.xib; sourceTree = "<group>"; };
+		A5EAF1FD2518C4520009DE0F /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		A5EAF1FE2518C4520009DE0F /* MapViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MapViewController.xib; sourceTree = "<group>"; };
 		D983FDCF5E60BD365CB873BE /* Pods-TestApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestApp.release.xcconfig"; path = "Target Support Files/Pods-TestApp/Pods-TestApp.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -88,10 +121,12 @@
 		A50ABF4825188DE900E7E15B /* TestApp */ = {
 			isa = PBXGroup;
 			children = (
-				A50ABF692518902E00E7E15B /* Service */,
 				A50ABF6325188ECF00E7E15B /* Config */,
-				A50ABF6225188EB300E7E15B /* UI */,
+				A54AD06D2518CF7000C89B89 /* Model */,
 				A50ABF6125188EAA00E7E15B /* Resources */,
+				A50ABF692518902E00E7E15B /* Service */,
+				A50ABF6225188EB300E7E15B /* UI */,
+				A50ABF84251897B800E7E15B /* Utils */,
 			);
 			path = TestApp;
 			sourceTree = "<group>";
@@ -100,6 +135,7 @@
 			isa = PBXGroup;
 			children = (
 				A50ABF5225188DEB00E7E15B /* Assets.xcassets */,
+				A50ABF892518993600E7E15B /* Fonts */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -108,7 +144,11 @@
 			isa = PBXGroup;
 			children = (
 				A50ABF76251892FA00E7E15B /* Auth */,
+				A5EAF1F52518C0A10009DE0F /* CreatePassword */,
+				A50ABFB02518B85B00E7E15B /* EmailViewController */,
 				A50ABF6425188EFA00E7E15B /* LaunchScreen */,
+				A5EAF1FC2518C4440009DE0F /* MapView */,
+				A50ABF9A25189DC400E7E15B /* NameViewController */,
 			);
 			path = UI;
 			sourceTree = "<group>";
@@ -116,10 +156,10 @@
 		A50ABF6325188ECF00E7E15B /* Config */ = {
 			isa = PBXGroup;
 			children = (
-				A50ABF4B25188DE900E7E15B /* SceneDelegate.swift */,
-				A50ABF5725188DEB00E7E15B /* Info.plist */,
 				A50ABF4925188DE900E7E15B /* AppDelegate.swift */,
 				A50ABF6A2518903D00E7E15B /* Constants.swift */,
+				A50ABF5725188DEB00E7E15B /* Info.plist */,
+				A50ABF4B25188DE900E7E15B /* SceneDelegate.swift */,
 			);
 			path = Config;
 			sourceTree = "<group>";
@@ -137,6 +177,7 @@
 		A50ABF692518902E00E7E15B /* Service */ = {
 			isa = PBXGroup;
 			children = (
+				A50ABFA82518B69600E7E15B /* TextFieldValidator.swift */,
 				A50ABF6525188FF700E7E15B /* UserDefaultsService.swift */,
 			);
 			path = Service;
@@ -149,6 +190,71 @@
 				A50ABF782518935800E7E15B /* AuthorizationViewController.xib */,
 			);
 			path = Auth;
+			sourceTree = "<group>";
+		};
+		A50ABF84251897B800E7E15B /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				A50ABF85251897D500E7E15B /* UIColor+Extension.swift */,
+				A50ABF9725189AF400E7E15B /* UIView+Extension.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		A50ABF892518993600E7E15B /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				A50ABF8B2518993E00E7E15B /* Avenir-Heavy.ttf */,
+				A50ABF8D2518993E00E7E15B /* SFProDisplay-Medium.ttf */,
+				A50ABF8C2518993E00E7E15B /* SFProDisplay-Light.ttf */,
+				A50ABF8A2518993E00E7E15B /* SFProDisplay-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		A50ABF9A25189DC400E7E15B /* NameViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A50ABF9B25189E0100E7E15B /* NameViewController.swift */,
+				A50ABF9C25189E0100E7E15B /* NameViewController.xib */,
+			);
+			path = NameViewController;
+			sourceTree = "<group>";
+		};
+		A50ABFB02518B85B00E7E15B /* EmailViewController */ = {
+			isa = PBXGroup;
+			children = (
+				A50ABFAB2518B85600E7E15B /* EmailViewController.swift */,
+				A50ABFAC2518B85600E7E15B /* EmailViewController.xib */,
+			);
+			path = EmailViewController;
+			sourceTree = "<group>";
+		};
+		A54AD06D2518CF7000C89B89 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A54AD06E2518CF7E00C89B89 /* UserAccount.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A5EAF1F52518C0A10009DE0F /* CreatePassword */ = {
+			isa = PBXGroup;
+			children = (
+				A5EAF1F62518C0B30009DE0F /* CreatePasswordViewController.swift */,
+				A5EAF1F72518C0B30009DE0F /* CreatePasswordViewController.xib */,
+			);
+			path = CreatePassword;
+			sourceTree = "<group>";
+		};
+		A5EAF1FC2518C4440009DE0F /* MapView */ = {
+			isa = PBXGroup;
+			children = (
+				A5EAF1FD2518C4520009DE0F /* MapViewController.swift */,
+				A5EAF1FE2518C4520009DE0F /* MapViewController.xib */,
+				A57F22102518ECF400D83BB2 /* MapStyleJson.swift */,
+			);
+			path = MapView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,7 +319,15 @@
 				A50ABF7A2518935800E7E15B /* AuthorizationViewController.xib in Resources */,
 				A50ABF5625188DEB00E7E15B /* LaunchScreen.storyboard in Resources */,
 				A50ABF5325188DEB00E7E15B /* Assets.xcassets in Resources */,
+				A50ABFAE2518B85600E7E15B /* EmailViewController.xib in Resources */,
+				A5EAF1F92518C0B30009DE0F /* CreatePasswordViewController.xib in Resources */,
+				A50ABF942518994E00E7E15B /* SFProDisplay-Regular.ttf in Resources */,
+				A50ABF922518994C00E7E15B /* SFProDisplay-Light.ttf in Resources */,
+				A5EAF2002518C4520009DE0F /* MapViewController.xib in Resources */,
 				A50ABF5125188DE900E7E15B /* Main.storyboard in Resources */,
+				A50ABF8E2518994900E7E15B /* Avenir-Heavy.ttf in Resources */,
+				A50ABF902518994A00E7E15B /* SFProDisplay-Medium.ttf in Resources */,
+				A50ABF9E25189E0100E7E15B /* NameViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -266,11 +380,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A50ABF86251897D500E7E15B /* UIColor+Extension.swift in Sources */,
 				A50ABF792518935800E7E15B /* AuthorizationViewController.swift in Sources */,
+				A50ABF9825189AF400E7E15B /* UIView+Extension.swift in Sources */,
 				A50ABF6625188FF700E7E15B /* UserDefaultsService.swift in Sources */,
+				A57F22112518ECF400D83BB2 /* MapStyleJson.swift in Sources */,
 				A50ABF4E25188DE900E7E15B /* ViewController.swift in Sources */,
+				A54AD06F2518CF7E00C89B89 /* UserAccount.swift in Sources */,
+				A50ABF9D25189E0100E7E15B /* NameViewController.swift in Sources */,
 				A50ABF6B2518903D00E7E15B /* Constants.swift in Sources */,
+				A5EAF1FF2518C4520009DE0F /* MapViewController.swift in Sources */,
 				A50ABF4A25188DE900E7E15B /* AppDelegate.swift in Sources */,
+				A5EAF1F82518C0B30009DE0F /* CreatePasswordViewController.swift in Sources */,
+				A50ABFAD2518B85600E7E15B /* EmailViewController.swift in Sources */,
 				A50ABF4C25188DE900E7E15B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -348,7 +470,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -403,7 +525,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -421,7 +543,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5QVZ7M9V99;
-				INFOPLIST_FILE = TestApp/Info.plist;
+				INFOPLIST_FILE = TestApp/Config/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -441,7 +563,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5QVZ7M9V99;
-				INFOPLIST_FILE = TestApp/Info.plist;
+				INFOPLIST_FILE = TestApp/Config/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
