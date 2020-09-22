@@ -59,7 +59,6 @@
 		A50ABF9725189AF400E7E15B /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		A50ABF9B25189E0100E7E15B /* NameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameViewController.swift; sourceTree = "<group>"; };
 		A50ABF9C25189E0100E7E15B /* NameViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NameViewController.xib; sourceTree = "<group>"; };
-		A50ABFA82518B69600E7E15B /* TextFieldValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldValidator.swift; sourceTree = "<group>"; };
 		A50ABFAB2518B85600E7E15B /* EmailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailViewController.swift; sourceTree = "<group>"; };
 		A50ABFAC2518B85600E7E15B /* EmailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = EmailViewController.xib; sourceTree = "<group>"; };
 		A54AD06E2518CF7E00C89B89 /* UserAccount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserAccount.swift; sourceTree = "<group>"; };
@@ -177,7 +176,6 @@
 		A50ABF692518902E00E7E15B /* Service */ = {
 			isa = PBXGroup;
 			children = (
-				A50ABFA82518B69600E7E15B /* TextFieldValidator.swift */,
 				A50ABF6525188FF700E7E15B /* UserDefaultsService.swift */,
 			);
 			path = Service;
